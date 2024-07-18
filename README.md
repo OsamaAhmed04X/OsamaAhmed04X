@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Osama1010C
+- 👋 Hi, I’m Osama Ahmed
 - 👀 I’m interested in designing systems
 - 🌱 I’m currently learning .net
 - ⚡ Fun fact: Cristiano is better than messi
