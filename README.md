@@ -1,4 +1,4 @@
-<h3 align="center">A passionate BackEnd developer</h3>
+<h3 align="center">A Passionate BackEnd Developer</h3>
 
 
 
