@@ -8,3 +8,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osama1010c&show_icons=true&locale=en&layout=compact&theme=dark" alt="osama1010c" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osama1010c&show_icons=true&locale=en&theme=dark" alt="osama1010c" /></p>
+
+
+
+
+
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=osama1010c&label=Profile%20views&color=0e75b6&style=flat" alt="osama1010c" /> </p>
+
+
