@@ -50,15 +50,15 @@
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osama1010c&show_icons=true&locale=en&layout=compact&theme=dark" alt="osama1010c" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OsamaAhmed04X&show_icons=true&locale=en&layout=compact&theme=dark" alt="OsamaAhmed04X" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osama1010c&show_icons=true&locale=en&theme=dark" alt="osama1010c" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OsamaAhmed04X&show_icons=true&locale=en&theme=dark" alt="OsamaAhmed04X" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osama1010c&label=Profile%20views&color=blue&style=flat" alt="osama1010c" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OsamaAhmed04X&label=Profile%20views&color=blue&style=flat" alt="OsamaAhmed04X" /> </p>
 
 
 ## 📫 Connect with Me:
 
-- [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osama1010c)
+- [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OsamaAhmed04X)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-ahmed-a636032b5)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osama.smsma999@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osamaahmedx04@gmail.com)
