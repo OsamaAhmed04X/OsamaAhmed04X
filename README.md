@@ -54,7 +54,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OsamaAhmed04X&show_icons=true&locale=en&theme=dark" alt="OsamaAhmed04X" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OsamaAhmed04X&label=Profile%20views&color=blue&style=flat" alt="OsamaAhmed04X" /> </p>
 
 
 ## 📫 Connect with Me:
