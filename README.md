@@ -50,14 +50,14 @@
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OsamaAhmed04X&show_icons=true&locale=en&layout=compact&theme=dark" alt="OsamaAhmed04X" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OsamaAhmedX04&show_icons=true&locale=en&layout=compact&theme=dark" alt="OsamaAhmedX04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OsamaAhmed04X&show_icons=true&locale=en&theme=dark" alt="OsamaAhmed04X" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OsamaAhmedX04&show_icons=true&locale=en&theme=dark" alt="OsamaAhmedX04" /></p>
 
 
 
 ## 📫 Connect with Me:
 
-- [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OsamaAhmed04X)
+- [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OsamaAhmedX04)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-ahmed-a636032b5)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osamaahmedx04@gmail.com)
